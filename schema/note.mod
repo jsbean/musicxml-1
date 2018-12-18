@@ -249,7 +249,7 @@
 
 <!--
 	Actual notated accidentals. Valid values include: sharp,
-	natural, flat, double-sharp, sharp-sharp, flat-flat,
+	natural, flat, double-sharp, double-flat, sharp-sharp, flat-flat,
 	natural-sharp, natural-flat, quarter-flat, quarter-sharp,
 	three-quarters-flat, three-quarters-sharp, sharp-down,
 	sharp-up, natural-down, natural-up, flat-down, flat-up,
